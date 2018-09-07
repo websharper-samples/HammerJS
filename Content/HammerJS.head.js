@@ -1,0 +1,1 @@
+document.write("<script src=\"https://hammerjs.github.io/dist/hammer.js\" type=\"text/javascript\" charset=\"UTF-8\"></script><script src=\"https://code.jquery.com/jquery-3.1.1.min.js\" type=\"text/javascript\" charset=\"UTF-8\"></script><!--[if lte IE 9.0]>\r\n<![endif]-->\r\n")
