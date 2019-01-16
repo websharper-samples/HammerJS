@@ -1,4 +1,4 @@
-# WebSharper HammerJS
+# WebSharper HammerJS [![Build status](https://ci.appveyor.com/api/projects/status/rqjlslr8iopvauc9?svg=true)](https://ci.appveyor.com/project/IntelliFactory/hammerjs)
 
 Sample for [WebSharper](https://websharper.com) bindings for HammerJS.
 
